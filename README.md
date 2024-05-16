@@ -35,4 +35,4 @@ For details, please refer to the [LICENSE](LICENSE) file.
 
 ## Collaborators
 This project was developed and maintained by the following collaborators:
-[Eltun Babirzade](https://github.com/eltunbabirzade), [Ramin Asgarli](-) 
+[Eltun Babirzade](https://github.com/eltunbabirzade), [Ramin Asgarli](https://github.com/raminasgarl1) 
